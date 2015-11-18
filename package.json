@@ -1,0 +1,28 @@
+{
+  "name": "astackrunner",
+  "version": "1.0.0",
+  "description": "like async.forEach but you can add more items to it while it's underway or finished",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w0ps/astackrunner"
+  },
+  "keywords": [
+    "async",
+    "stack",
+    "buffer",
+    "nodejs"
+  ],
+  "author": "= <=> (=)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w0ps/astackrunner/issues"
+  },
+  "homepage": "https://github.com/w0ps/astackrunner",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
